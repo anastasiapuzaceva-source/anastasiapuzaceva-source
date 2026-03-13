@@ -1,4 +1,4 @@
-# Hi, I'm Anastasia 👋
+# Hi, I'm Anastasiia 👋
 
 Python Backend Developer focused on web backend development and APIs.
 
